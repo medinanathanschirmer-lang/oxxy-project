@@ -31,19 +31,24 @@ Roda 8 etapas em sequência, com barra de progresso:
 2. Edite a variável `PKG` no início do arquivo, colocando o pacote do app/jogo que você quer otimizar
 3. Abra o aShell e rode: sh /sdcard/download/prjct-oxxy.sh (caso o .sh esteja na pasta download)
 
+
+[
+
 ![License](https://img.shields.io/github/license/medinanathanschirmer-lang/oxxy-project)
 
-
-
+](https://github.com/medinanathanschirmer-lang/oxxy-project/blob/main/LICENSE)
+[
 
 ![Stars](https://img.shields.io/github/stars/medinanathanschirmer-lang/oxxy-project)
 
-
-
+](https://github.com/medinanathanschirmer-lang/oxxy-project/stargazers)
+[
 
 ![Last Commit](https://img.shields.io/github/last-commit/medinanathanschirmer-lang/oxxy-project)
 
-
-
+](https://github.com/medinanathanschirmer-lang/oxxy-project/commits/main)
+[
 
 ![Issues](https://img.shields.io/github/issues/medinanathanschirmer-lang/oxxy-project)
+
+](https://github.com/medinanathanschirmer-lang/oxxy-project/issues)
