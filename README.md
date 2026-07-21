@@ -29,7 +29,7 @@ Roda 8 etapas em sequência, com barra de progresso:
 
 1. Baixe o `prjct-oxxy.sh` para o seu celular
 2. Edite a variável `PKG` no início do arquivo, colocando o pacote do app/jogo que você quer otimizar
-3. Abra o aShell e rode: sh /sdcard/download/prjct-oxxy.sh
+3. Abra o aShell e rode: sh /sdcard/download/prjct-oxxy.sh (caso o .sh esteja na pasta download)
 
 ![License](https://img.shields.io/github/license/medinanathanschirmer-lang/oxxy-project)
 
