@@ -1,0 +1,65 @@
+name: Novo comando testado
+description: Reporte um comando ADB que voce testou e confirmou que funciona
+title: "[Comando] "
+labels: ["novo-comando"]
+body:
+  - type: input
+    id: comando
+    attributes:
+      label: Comando exato
+      description: Cole a linha completa do comando
+      placeholder: "settings put global exemplo_chave 1"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: categoria
+    attributes:
+      label: Categoria
+      options:
+        - RAM
+        - CPU
+        - Rede
+        - Idle/Doze
+        - Vulkan
+        - GPU
+        - Processos
+        - Outro
+    validations:
+      required: true
+
+  - type: input
+    id: aparelho
+    attributes:
+      label: Aparelho testado
+      description: Fabricante, modelo e versao do Android
+      placeholder: "Samsung Galaxy S23, Android 16"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: root
+    attributes:
+      label: Requer root?
+      options:
+        - "Sim"
+        - "Nao"
+    validations:
+      required: true
+
+  - type: textarea
+    id: resultado
+    attributes:
+      label: Resultado observado
+      description: O que mudou de fato depois de rodar o comando
+      placeholder: "Ex: ping caiu de 80ms pra 40ms em jogo X"
+    validations:
+      required: true
+
+  - type: input
+    id: fonte
+    attributes:
+      label: Fonte (opcional)
+      description: Link de documentacao oficial, forum, ou "testei sozinho"
+    validations:
+      required: false
