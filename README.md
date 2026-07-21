@@ -1,3 +1,19 @@
+![License](https://img.shields.io/github/license/medinanathanschirmer-lang/oxxy-project)
+
+
+
+
+![Stars](https://img.shields.io/github/stars/medinanathanschirmer-lang/oxxy-project)
+
+
+
+
+![Last Commit](https://img.shields.io/github/last-commit/medinanathanschirmer-lang/oxxy-project)
+
+
+
+
+![Issues](https://img.shields.io/github/issues/medinanathanschirmer-lang/oxxy-project)
 ![Project Oxxy banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Project%20Oxxy&fontSize=60&fontColor=ffffff&desc=OXXYZ%20-%20Android%20Optimization%20Script&descAlignY=75)
 ## Project oxxy (OXXYZ)
 
