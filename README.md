@@ -1,3 +1,4 @@
+![Project Oxxy banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Project%20Oxxy&fontSize=60&fontColor=ffffff&desc=OXXYZ%20-%20Android%20Optimization%20Script&descAlignY=75)
 ## Project oxxy (OXXYZ)
 
 > Projeto em construção e aberto a expansão. Ainda não tem uma definição fechada — a ideia central é ir incorporando, aos poucos, comandos ADB testados e confirmados que realmente funcionam, com ou sem root, pra otimizar o Android.
