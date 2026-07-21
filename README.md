@@ -33,14 +33,18 @@ Roda 8 etapas em sequência, com barra de progresso:
 
 
 [
+
 ![License](https://img.shields.io/github/license/medinanathanschirmer-lang/oxxy-project)
 ](https://github.com/medinanathanschirmer-lang/oxxy-project/blob/main/LICENSE)
 [
+
 ![Stars](https://img.shields.io/github/stars/medinanathanschirmer-lang/oxxy-project)
 ](https://github.com/medinanathanschirmer-lang/oxxy-project/stargazers)
 [
+
 ![Last Commit](https://img.shields.io/github/last-commit/medinanathanschirmer-lang/oxxy-project)
 ](https://github.com/medinanathanschirmer-lang/oxxy-project/commits/main)
 [
+
 ![Issues](https://img.shields.io/github/issues/medinanathanschirmer-lang/oxxy-project)
 ](https://github.com/medinanathanschirmer-lang/oxxy-project/issues)
